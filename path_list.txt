@@ -1,0 +1,4 @@
+/
+/_layouts/user.aspx
+/_layouts/userdisp.aspx?id=1
+/_layouts/sitemanager.aspx

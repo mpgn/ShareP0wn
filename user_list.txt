@@ -1,0 +1,6 @@
+{
+  "users": [
+    {"username": "anonymous","password": "anonymous"},
+    {"username": "DOMAIN\\user","password": "pass"}
+  ]
+}
